@@ -1,0 +1,6 @@
+@ApiPdtTechLeilao_HostAddress = http://localhost:5209
+
+GET {{ApiPdtTechLeilao_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
